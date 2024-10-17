@@ -1,8 +1,11 @@
 "# Food_Odering_App" 
+
 Overview
+
 The Food Ordering Application is a mobile application designed for canteens, restaurants, or food delivery services, enabling customers to easily place orders online. The admin portal allows restaurant managers to manage and track incoming orders.
 
 Features
+
 Customer-side App:
 Browse through menus and dishes.
 Add food items to the cart.
