@@ -34,3 +34,5 @@ https://github.com/user-attachments/assets/8cbcac4a-ce69-416b-a030-b1db9fab5df0
 
 https://github.com/user-attachments/assets/9ea715e6-6806-4f60-89ce-2284ebd0e69a
 
+License
+This project is licensed under the MIT License.
